@@ -2,7 +2,22 @@
     margin-bottom: 10px;
 }
 
+#selfintro {
+    max-width: 1200px;
+}
+
 .subtitle {
     font-weight: bold;
-    font-size: 20px;
+    font-size: 22px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
+body {
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.project_title {
+    font-weight: bold;
 }
